@@ -1,0 +1,22 @@
+{
+  "name": "cotidiano",
+  "version": "1.0.0",
+  "description": "Lab",
+  "main": "index.js",
+  "scripts": {
+    "sass": " \"sass --watch assets/sass/main.scss:assets/css/main.css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blancovanessa/cotidiano.git"
+  },
+  "author": "Vanessa Blanco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blancovanessa/cotidiano/issues"
+  },
+  "homepage": "https://github.com/Blancovanessa/cotidiano#readme",
+  "dependencies": {
+    "sass": "^1.29.0"
+  }
+}
